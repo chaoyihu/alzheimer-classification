@@ -1,0 +1,4 @@
+【Pearson相关系数：衡量向量之间的相似性】
+https://www.zhihu.com/question/19734616
+【RS fMRI】
+http://d.rnet.co/Course/V3.0EN/1_Resting-State_fMRI.mp4

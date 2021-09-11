@@ -1,0 +1,13 @@
+SPM sMRI: https://b23.tv/BV1QK4y1r7vP
+
+VBM8: https://b23.tv/BV1ui4y1t7Va
+
+slice order：http://www.rfmri.org/content/slice-order-adni-rsfmri-data
+
+SPM rsfMRI:https://b23.tv/BV1vb411T7fE/p6
+
+REST: https://b23.tv/BV1vb411T7fE/p9
+
+Graph Var: https://b23.tv/BV1vb411T7fE/p10
+
+DPARSFA: https://b23.tv/BV1d7411f7fG/p1
